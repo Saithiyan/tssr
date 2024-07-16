@@ -14,6 +14,13 @@
 #### note : [Config nftables](https://github.com/Saithiyan/tssr/blob/main/servicefiles/note-nftables.md)
 
 ---
-#### note : [Windows Server 2022 - AD DS](servicefiles/WindowsèServer-2022-AD_DS)
+#### note :
+ [Windows Server 2022 - AD DS](servicefiles/WindowsèServer-2022-AD_DS)
+[Les cmd ip route](servicefiles/ip_route) 
+[Les cmd nftables](servicefiles/nftables)
+[Les cmd tar et gzip](servicefiles/tar_et_gzip)
+
+
+
 
 

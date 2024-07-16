@@ -15,6 +15,7 @@
 
 ---
 #### note :
+[all_note_some_cmd](servicefiles/note_some_cmd)
  [Windows Server 2022 - AD DS](servicefiles/WindowsèServer-2022-AD_DS)
 [Les cmd ip route](servicefiles/ip_route) 
 [Les cmd nftables](servicefiles/nftables)
